@@ -1,0 +1,29 @@
+Product ID;Active (0/1);Name *;Categories (x,y,z...);Price tax excluded;Tax rules ID;Width;Height;Depth;Weight;Quantity;Minimal quantity;Summary;Image URLs (x,y,z...)
+1;1;Anisbredela;Traditionnels;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/Anisbredela.png
+2;1;Berawecka;Spécialités de Noël;15;1;10;10;10;0.5;5000;1;Un pain de Noêl standard individuel;http://localhost:8080/bredalaimg/berawecka.png
+3;1;Boules de Linz; Traditionnels;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/boulesdelinz.jpg
+4;1;Bretzel sucré; Traditionnels;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/bretzel.jpg
+5;1;Disque à la confiture; Traditionnels;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/disqueconfiture.jpg
+6;1;Etoile Chocolat;Spécialités de Noël;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/etoilechocolat.jpg
+7;1;Etoile Citron;Spécialités de Noël;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/etoilecitron.jpg
+8;1;Leckerli; Traditionnels;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/leckerli.png
+9;1;Lunes aux amandes; Traditionnels;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/lunesamandes.jpg
+10;1;Sablé aux amandes;Spécialités de Noël;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/noelamande.jpg
+11;1;Sablé au beurre;Spécialités de Noël;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/noelbeurre.jpg
+12;1;Sablé à la cannelle;Spécialités de Noël;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/noelcanelle.jpg
+13;1;Sablé aux noix;Spécialités de Noël;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/noix.jpg
+14;1;Rocher Coco; Traditionnels;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/rochercoco.jpg
+15;1;Spiral Choco Vanille; Traditionnels;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/spiralechocovanille.jpg
+16;1;Spritz; Traditionnels;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/spritz.jpg
+17;1;Triangles aux noisettes; Traditionnels;10;1;10;10;10;0.5;5000;1;Lot de 10 petits gateaux en sachet;http://localhost:8080/bredalaimg/trianglesnoisettes.jpg
+18;1;Coeur d'Alsace;Pains d'épices;10;1;10;10;10;0.5;5000;1;Un pain d'épices individuel;http://localhost:8080/bredalaimg/paindepicescoeuralsace.jpg
+19;1;Pains d'épices décorés;Pains d'épices;10;1;10;10;10;0.5;5000;1;Lot de 3 pains d'épices en sachet;http://localhost:8080/bredalaimg/paindepicesdecores.jpg
+20;1;Maison en pain d'épices;Pains d'épices;10;1;10;10;10;0.5;5000;1;Une maison à décorer;http://localhost:8080/bredalaimg/paindepicesmaison.jpg
+21;1;Mannele en pain d'épices;Pains d'épices;10;1;10;10;10;0.5;5000;1;Lot de 3 pains d'épices en sachet;http://localhost:8080/bredalaimg/paindepicesmannele.jpg
+22;1;Pain au miel traditionnel;Pains d'épices;10;1;10;10;10;0.5;5000;1;Un pain d'épices individuel au miel;http://localhost:8080/bredalaimg/paindepicesmiel.jpg
+23;1;Saint-Nicolas maison;Pains d'épices;10;1;10;10;10;0.5;5000;1;Un pain d'épices individuel au miel;http://localhost:8080/bredalaimg/paindepicesstnicolas.jpg
+24;1;Saint-Nicolas glacé;Pains d'épices;10;1;10;10;10;0.5;5000;1;Un pain d'épices individuel au miel;http://localhost:8080/bredalaimg/paindepicesstnicolasglace.jpg
+25;1;Panier Premium; Paniers cadeaux;30;1;10;10;10;0.5;5000;1;Un cadeau de choix;http://localhost:8080/bredalaimg/panierpremium.jpg
+26;1;Panier Sablés; Paniers cadeaux;20;1;10;10;10;0.5;5000;1;Un cadeau dce choix;http://localhost:8080/bredalaimg/paniersables.jpg
+27;1;Panier pain d'épices; Paniers cadeaux;20;1;10;10;10;0.5;5000;1;Un cadeau dce choix;http://localhost:8080/bredalaimg/paniersables.jpg
+28;1;Sachet Sélection; Paniers cadeaux;10;1;10;10;10;0.5;5000;1;Un cadeau de choix;http://localhost:8080/bredalaimg/sachet.jpg

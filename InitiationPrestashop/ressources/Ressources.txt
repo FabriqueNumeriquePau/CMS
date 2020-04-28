@@ -1,0 +1,50 @@
+Titre : Mes Bredala
+Description : Vente en ligne de petits gâteaux traditionnels alsaciens
+Logo créé avec canva.com
+et favicon : https://www.favicon-generator.org/
+
+Images pour Carousel
+Titre 1 : BREDALA
+Légende 1 : Les petits gâteaux traditionnels emblématiques de l'Alsace et de Noël
+Titre 2 : PAINS D'EPICES
+Légende 2 : Les pains d'épices au miel et dorés
+Titre 1 : PANIERS CADEAUX
+Légende 1 : Partagez des saveurs grâces à nos paniers cadeaux
+
+Texte personnalisé :
+Les Bredala c'est quoi ?
+Les « Bredele », « Bredala » ou encore « Bredle » sont des petits gâteaux, confectionnés traditionnellement en Alsace à l’occasion des fêtes de Noël. Les recettes ont été transmises de génération en génération ! Nous avons souhaité partager ces petites merveilles pour les faire découvrir à tous !
+
+--------------------------------------------------------------------------------------
+Catégories :
+
+10 Bredala - Les petits gâteaux traditionnels emblématiques de l'Alsace et de Noël
+Title : Petits gâteaux traditionnels de l'Alsace et de Noël
+
+11 Pains d'épices : Les pains d'épices au miel et dorés
+Pains d'épices au miel décorés de Noël
+
+12 Paniers cadeaux : Partagez des saveurs grâces à nos paniers cadeaux
+Paniers cadeaux de petits gâteaux de Noël
+
+Sous-catégories Bredala :
+
+13 Spécialités de Noël : Les petits gâteaux de Nöel
+Les petits gâteaux traditionnels emblématiques de Noël
+
+14 Traditionnels : Les petits gâteaux emblématiques de l'Alsace
+Les petits gâteaux traditionnels emblématiques de l'Alsace
+
+--------------------------------------------------------------------------------------
+Caractéristiques :
+
+Composition :
+Anis
+Amandes
+Beurre
+Canelle
+Chocolat
+Noix
+Noisettes
+Vanille
+
