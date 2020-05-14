@@ -236,6 +236,9 @@ Et implémenter les méthodes **install** et **uninstall** dans la classe princi
     }
 ````
 
+Attention : vous serez obligés de désactiver/réactiver, voire de réinstaller le plugin, pour créer la base car la fonction *install* n'est appellé qu'à l'installation du plugin.
+
+
 <hr/>
 
 ## Enregistrement des emails dans la base de données
