@@ -523,13 +523,13 @@ A noter, pour utiliser le module PHPMailer plutôt que la fonction mail() de PHP
         //fonction de configuration de PHPMailer
         function mailer_config(PHPMailer $mailer){
             $mailer->isSMTP(); // Paramétrer le Mailer pour utiliser SMTP 
-            $mailer->Host = 'mail.gandi.net'; // Spécifier le serveur SMTP
+            $mailer->Host = '######'; // Spécifier le serveur SMTP
+            $mailer->Port = 465;      // Le port
             $mailer->SMTPAuth = true; // Activer authentication SMTP
-            $mailer->Username = '#####@#######.fr'; // Votre adresse email d'envoi
+            $mailer->Username = '#####@########'; // Votre adresse email d'envoi
             $mailer->Password = '#########'; // Le mot de passe de cette adresse email
-            $mailer->SMTPSecure = 'ssl'; // Accepter SSL
-            $mailer->Port = 465;
-            $mailer->SMTPDebug = 0; // 0 : pa s de trace - 2: toutes les traces 
+            $mailer->SMTPSecure = 'ssl'; // Accepter SSL            
+            $mailer->SMTPDebug = 0; // 0=pas de trace - 2=toutes les traces 
             $mailer->CharSet  = "utf-8";
         }
 
